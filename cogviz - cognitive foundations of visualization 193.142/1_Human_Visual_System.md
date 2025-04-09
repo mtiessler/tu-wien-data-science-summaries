@@ -116,4 +116,28 @@ Visual information is processed in **three main stages**:
   - Working memory is limited to about **6–7 chunks** of information at a time
   - Enables **reasoning**, **decision-making**, and **interpretation**
 
+Here's the corrected and polished version of that section, with clearer grammar, better structure, and a few explanatory additions for clarity:
+
 ---
+
+## The Lazy Nature of Visual Processing & Why We *Feel* Like We See Everything
+
+Although our visual system receives **enormous amounts of visual information**, most of it is either **discarded** or **simplified**. The brain retains only what it considers **relevant**, and it actively **fills in the gaps**, creating the **illusion** of a fully detailed and continuous visual world.
+
+In reality, our perception is a **reconstruction**, not a full recording.
+
+We *feel* like we see everything clearly because of two key mechanisms:
+
+### 1. **Saccadic Eye Movements**
+- These are **rapid jumps** of the eyes (about every 3–4 seconds) to different **points of interest** in a scene.
+- Each jump collects a **sample** of visual information.
+- While the eyes are moving (during the saccade), we are effectively **blind**, but the brain **masks this gap** — we **don’t perceive the blackout**.
+- The brain then **stitches together** these samples into a coherent and stable scene.
+
+### 2. **Attention-Driven Perception**
+- We do **not** process all visual input equally.
+- Our **attention** filters and prioritizes what is **task-relevant** or **important**.
+- The brain invests effort only in processing the information necessary for current goals, ignoring the rest.
+  
+
+
