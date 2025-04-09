@@ -94,7 +94,7 @@ Outside the fovea, **resolution drops**, which explains why **peripheral vision 
 
 ### 2) From the Eye to the Brain
 
-![Visual Processing Stages](/cogviz%20-%20cognitive%20foundations%20of%20visualization%20193.142/imgs/1_Human_Visual_System/4_From_The_Eye_To_The_Brain.png)
+![Visual Processing Stages](/cogviz%20-%20cognitive%20foundations%20of%20visualization%20193.142/imgs/1_Human_Visual_System/4_From_the_eye_to_the_brain.png)
 
 Visual information is processed in **three main stages**:
 
