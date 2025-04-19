@@ -23,6 +23,10 @@ Experiments by **Cleveland & McGill** show that some channels are more effective
 | 4️⃣   | **Area**           | Often over- or under-estimated |
 | 5️⃣   | **Color Intensity**| Least accurate for quantities |
 
+For magnitude estimations/comparsion:
+- Position > Length
+- Angle > Area
+
 > **Design Tip**: Use high-ranking channels when accurate comparisons matter.
 
 ---
@@ -48,6 +52,7 @@ Experiments by **Cleveland & McGill** show that some channels are more effective
 ## Trade-offs in Design
 
 Sometimes, high-accuracy channels (like position) can’t be used due to **space or scalability** constraints.
+
 
 > **Example**:  
 Heatmaps use **color intensity**, which is **low in accuracy**, but good for displaying **large datasets compactly**.
@@ -91,17 +96,37 @@ Discriminability refers to **how many distinct values a viewer can perceive** fr
 
 ---
 
+Here’s the updated **“Takeaways”** section with **"Single"** and **"Multiple"** categories incorporated, based on the slide you provided:
+
+---
+
 ## Takeaways: Guidelines for Effective Visual Encoding
 
-| Property          | Key Principle                                                 |
-|------------------|---------------------------------------------------------------|
-| **Accuracy**      | Prioritize **position**, **length** for quantitative data     |
-| **Discriminability** | Limit values per channel (5–7), avoid clutter                |
-| **Salience**      | Use strong visual features to **attract attention**           |
-| **Separability**  | Avoid overlapping channels that interfere (e.g., color + size)|
-| **Grouping**      | Use channels that support **grouping and categorization**     |
+Visual channels vary in **effectiveness**, depending on whether they are used individually or in combination:
+
+### **Single-Channel Properties**  
+Used alone to encode data.
+
+| Property            | Key Principle                                                 |
+|--------------------|---------------------------------------------------------------|
+| **Accuracy**        | Prioritize **position** and **length** for encoding magnitudes. |
+| **Discriminability**| Limit number of distinct values per channel (ideally 5–7); avoid clutter. |
+
+---
+
+### **Multi-Channel Properties**  
+Used in combination to encode or highlight multiple data dimensions.
+
+| Property         | Key Principle                                                                           |
+|-----------------|------------------------------------------------------------------------------------------|
+| **Salience**     | Use strong visual features (e.g., color, motion) to **attract attention** to key areas. |
+| **Separability** | Avoid overlapping channels that interfere with perception; aim for **clear channel tuning**. |
+| **Grouping**     | Leverage spatial proximity, similarity, or common regions for **pattern recognition** and **categorization**. |
+
+> **Interpretation**:  
+“Single” effectiveness relates to how well **one channel alone** performs, while “Multiple” addresses how **channels interact**, either helping (grouping) or hurting (interference) perception.
+
 
 > **Bottom Line**:  
 Effectiveness depends on **task**, **channel choice**, and **how many values can be perceived**.
 
----
