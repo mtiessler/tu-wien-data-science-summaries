@@ -3,7 +3,7 @@
 
 Visual perception is **heavily influenced by attention** — meaning, what we focus on determines what information we retain and process. Although the eyes receive a vast amount of visual input, **only a small portion is stored**, and **what is stored depends on the task at hand**.
 
-> 📌 **Key Point**: Visualization design must account for the limits of attention. A visualization that distracts or misleads the viewer is ineffective — it must be structured to support attention, not compete with it.
+> **Key Point**: Visualization design must account for the limits of attention. A visualization that distracts or misleads the viewer is ineffective — it must be structured to support attention, not compete with it.
 
 ---
 
@@ -13,11 +13,11 @@ Visual perception is **heavily influenced by attention** — meaning, what we fo
 
 > 🎥 **Example**: The famous Daniel Simons experiment ([Watch here](https://www.youtube.com/watch?v=VkrrVozZR2c)) shows that people often **fail to notice when one person is replaced by another** after a brief interruption.
 
-### ✏️ Practical Implications:
+###  Practical Implications:
 - Drivers may **fail to notice pedestrians or cyclists** despite looking in their direction.
 - **Eyewitness testimonies** can be unreliable due to inattentional blindness.
 
-> 🧠 “Vision is not about creating a perfect internal model of the world, but about **efficiently extracting meaning** from what we see.”
+>  “Vision is not about creating a perfect internal model of the world, but about **efficiently extracting meaning** from what we see.”
 
 ---
 
